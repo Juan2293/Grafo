@@ -1,0 +1,129 @@
+[
+  {
+    "invpricipal": 1,
+    "invrelacionado": 2,
+    "proyecto": 1
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 3,
+    "proyecto": 2
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 3,
+    "proyecto": 3
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 3,
+    "proyecto": 3
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 3,
+    "proyecto": 3
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 3,
+    "proyecto": 5
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 3,
+    "proyecto": 3
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 3,
+    "proyecto": 3
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 3,
+    "proyecto": 3
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 4,
+    "proyecto": 4
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 5,
+    "proyecto": 3
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 6,
+    "proyecto": 1
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 7,
+    "proyecto": 1
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 8,
+    "proyecto": 5
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 9,
+    "proyecto": 5
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 10,
+    "proyecto": 5
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 11,
+    "proyecto": 5
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 12,
+    "proyecto": 5
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 13,
+    "proyecto": 5
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 14,
+    "proyecto": 5
+  },
+  {
+    "invpricipal": 1,
+    "invrelacionado": 15,
+    "proyecto": 5
+  },
+  {
+    "invpricipal": 2,
+    "invrelacionado": 15,
+    "proyecto": 5
+  }
+  ,
+  {
+    "invpricipal": 2,
+    "invrelacionado": 9,
+    "proyecto": 5
+  },
+  {
+    "invpricipal": 4,
+    "invrelacionado": 6,
+    "proyecto": 5
+  },
+  {
+    "invpricipal": 4,
+    "invrelacionado": 6,
+    "proyecto": 5
+  }
+  
+]

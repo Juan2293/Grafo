@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Investigador Principal",
+    "nivel": 1
+ 
+  },
+  {
+    "id": 2,
+    "name": "Investigador1",
+    "nivel": 2
+  },
+  {
+    "id": 3,
+    "name": "Investigador2",
+    "nivel": 2
+    
+  },
+  {
+    "id": 4,
+    "name": "Investigador3",
+    "nivel": 2
+    
+  },
+  {
+    "id": 5,
+    "name": "Investigador4",
+    "nivel": 2    
+  },
+  {
+    "id": 6,
+    "name": "Investigador5",
+    "nivel": 2    
+  },
+  {
+    "id": 7,
+    "name": "Investigador6",
+    "nivel": 2    
+  },
+  {
+    "id": 8,
+    "name": "Investigador7",
+    "nivel": 2    
+  },
+  {
+    "id": 9,
+    "name": "Investigador8",
+    "nivel": 2   
+  },
+  {
+    "id": 10,
+    "name": "Investigador9",
+    "nivel": 2    
+  },
+  {
+    "id": 11,
+    "name": "Investigador10",
+    "nivel": 2    
+  },
+  {
+    "id": 12,
+    "name": "Investigador11",
+    "nivel": 2    
+  },
+  {
+    "id": 13,
+    "name": "Investigador12",
+    "nivel": 2    
+  },
+  {
+    "id": 14,
+    "name": "Investigador13",
+    "nivel": 2    
+  },
+  {
+    "id": 15,
+    "name": "Investigador14",
+    "nivel": 2    
+  }
+]
